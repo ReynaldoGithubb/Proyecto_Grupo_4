@@ -363,7 +363,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 4fc0a4e757f0db34d8ff17ad8aaf7f0a, type: 2}
+  m_Material: {fileID: 6200000, guid: 8fe18df9a82ff4941b2aa5c5647d1d0a, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1164,7 +1164,7 @@ GameObject:
   - component: {fileID: 1387101036}
   - component: {fileID: 1387101035}
   m_Layer: 0
-  m_Name: Clouds 7_0
+  m_Name: Fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
