@@ -1524,7 +1524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControlSlime
   velocidad: 7
-  fuerzaSalto: 15
+  fuerzaSalto: 10
 --- !u!61 &2070925681
 BoxCollider2D:
   m_ObjectHideFlags: 0
